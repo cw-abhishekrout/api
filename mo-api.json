@@ -1,4 +1,17 @@
 {
+  "aboutData": [
+    {
+      "about": "Women in Mobility is an initiative by Mobility Outlook that recognizes and features women leaders in the mobility sector, who have been exemplary role models to many. The second edition of Women in Mobility was supported by MG Motor India and covered another 24 women across leadership roles in the mobility industry. <br><br>This year-long activity was culminated in a grand event on 24 March 2023 by celebrating women leadership and their achievements across various mobility domains with the launch of the second edition of our <strong>coffee table book</strong>.",
+      "banner-image": "https://imgd.aeplcdn.com/0x0/media/cw/1v7arab_1666845.jpg",
+      "banner-image-m": "https://imgd.aeplcdn.com/0x0/media/cw/q4narab_1666847.jpg",
+      "logo-image": "https://imgd.aeplcdn.com/0x0/media/cw/fov9cab_1649909.png"
+    }
+  ],
+  "diversityData": [
+    {
+      "data": "While Women in Mobility has until now focussed on individuals, it is important that we also look at how the industry and organisations are creating new ways of empowering their women employees and leaders. Starting from 2023, we have launched a new initiative within the Women in Mobility umbrella, titled “Champions of Diversity (CoD)” – an initiative to honour organisations that are most supportive of diversity and inclusion in their workplaces. This initiative would honour the Top 5 companies every year across OEMs (2W, 3W, 4W, CV, EV), Suppliers and Start-ups that champion women empowerment."
+    }
+  ],
   "womenDescription": [
     {
       "id": 0,
@@ -268,11 +281,6 @@
       "imgSrc": "https://imgd.aeplcdn.com/0x0/media/cw/zeearab_1666835.png"
     }
   ],
-  "aboutData": [
-    {
-      "about": "Women in Mobility is an initiative by Mobility Outlook that recognizes and features women leaders in the mobility sector, who have been exemplary role models to many. The second edition of Women in Mobility was supported by MG Motor India and covered another 24 women across leadership roles in the mobility industry. This year-long activity was culminated in a grand event on 24 March 2023 by celebrating women leadership and their achievements across various mobility domains with the launch of the second edition of our coffee table book."
-    }
-  ],
   "eminentSpeakers": [
     {
       "id": 1,
@@ -349,6 +357,12 @@
       "name": "Vivek Tyagi",
       "email": "vivek.t@mobilityoutlook.com",
       "mob": "9871367808"
+    }
+  ],
+  "glimpseData": [
+    {
+      "image-m": "https://imgd.aeplcdn.com/0x0/media/cw/k3karab_1666843.png",
+      "Image-d": "https://imgd.aeplcdn.com/0x0/media/cw/onharab_1666839.png"
     }
   ]
 }
